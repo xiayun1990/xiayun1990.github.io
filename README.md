@@ -1,2 +1,3 @@
 # appLinkTest
 通过github page 提供app的appLink功能
+浏览器可能存在隐私保护，可在谷歌手机中的桌面浏览栏中或者火狐中选择应用打开
